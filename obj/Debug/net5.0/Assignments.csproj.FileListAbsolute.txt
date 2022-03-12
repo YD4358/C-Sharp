@@ -1,0 +1,16 @@
+D:\Temp\Back Class\C-Sharp\Assignments\bin\Debug\net5.0\Assignments.exe
+D:\Temp\Back Class\C-Sharp\Assignments\bin\Debug\net5.0\Assignments.deps.json
+D:\Temp\Back Class\C-Sharp\Assignments\bin\Debug\net5.0\Assignments.runtimeconfig.json
+D:\Temp\Back Class\C-Sharp\Assignments\bin\Debug\net5.0\Assignments.runtimeconfig.dev.json
+D:\Temp\Back Class\C-Sharp\Assignments\bin\Debug\net5.0\Assignments.dll
+D:\Temp\Back Class\C-Sharp\Assignments\bin\Debug\net5.0\ref\Assignments.dll
+D:\Temp\Back Class\C-Sharp\Assignments\bin\Debug\net5.0\Assignments.pdb
+D:\Temp\Back Class\C-Sharp\Assignments\obj\Debug\net5.0\Assignments.csproj.AssemblyReference.cache
+D:\Temp\Back Class\C-Sharp\Assignments\obj\Debug\net5.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\Back Class\C-Sharp\Assignments\obj\Debug\net5.0\Assignments.AssemblyInfoInputs.cache
+D:\Temp\Back Class\C-Sharp\Assignments\obj\Debug\net5.0\Assignments.AssemblyInfo.cs
+D:\Temp\Back Class\C-Sharp\Assignments\obj\Debug\net5.0\Assignments.csproj.CoreCompileInputs.cache
+D:\Temp\Back Class\C-Sharp\Assignments\obj\Debug\net5.0\Assignments.dll
+D:\Temp\Back Class\C-Sharp\Assignments\obj\Debug\net5.0\ref\Assignments.dll
+D:\Temp\Back Class\C-Sharp\Assignments\obj\Debug\net5.0\Assignments.pdb
+D:\Temp\Back Class\C-Sharp\Assignments\obj\Debug\net5.0\Assignments.genruntimeconfig.cache
