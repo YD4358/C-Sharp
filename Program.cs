@@ -313,7 +313,7 @@ namespace Assignments
                     B b = new B('b');
                     break;
 /*Ouestion 51*/ case 51:
-                    Console.WriteLine("Q51.");
+                    Console.WriteLine("Q51. Demonstrate the difference between abstract class and interface");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
                     
                     break;
