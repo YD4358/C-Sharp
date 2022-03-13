@@ -308,11 +308,46 @@ namespace Assignments
                     mi.mulInhrt();
                     break;
 /*Ouestion 50*/ case 50:
-                    Console.WriteLine("Q50.Declare a class name 'A' with some methods and one parameterised constructor. \n    Derive another class 'B' from 'class A'. \n    In class B have some methods and constructor. \n    Demonstrate how base class parameterised constructor gets call from child class constructor.");
+                    Console.WriteLine("Q50.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
                     B b = new B('b');
                     break;
-                
+/*Ouestion 51*/ case 51:
+                    Console.WriteLine("Q51.");
+                    Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
+                    
+                    break;
+/*Ouestion 52*/ case 52:
+                    Console.WriteLine("Q52.");
+                    Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
+                    
+                    break;
+/*Ouestion 53*/ case 53:
+                    Console.WriteLine("Q53.");
+                    Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
+                    
+                    break;
+/*Ouestion 54*/ case 54:
+                    Console.WriteLine("Q54.");
+                    Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
+                    
+                    break;
+/*Ouestion 55*/ case 55:
+                    Console.WriteLine("Q55.");
+                    Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
+                    
+                    break;
+/*Ouestion 56*/ case 56:
+                    Console.WriteLine("Q56.");
+                    Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
+                    
+                    break;
+/*Ouestion 57*/ case 57:
+                    Console.WriteLine("Q57.");
+                    Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
+                    
+                    break;
+
                 default:
                     Console.WriteLine("Coming Soon.....!!");
                     break;
