@@ -308,42 +308,43 @@ namespace Assignments
                     mi.mulInhrt();
                     break;
 /*Ouestion 50*/ case 50:
-                    Console.WriteLine("Q50.");
+                    Console.WriteLine("Q50.Declare a class name 'A' with some methods and one parameterised constructor. \nDerive another class 'B' from 'class A'. \nIn class B have some methods and constructor. \nDemonstrate how base class parameterised constructor gets call from child class constructor.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
                     B b = new B('b');
                     break;
 /*Ouestion 51*/ case 51:
                     Console.WriteLine("Q51. Demonstrate the difference between abstract class and interface");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
-                    
+                    Abst ab = new ();
+                    ab.abstt();
                     break;
 /*Ouestion 52*/ case 52:
-                    Console.WriteLine("Q52.");
+                    Console.WriteLine("Q52.Write a program which will demonstrate the function overriding.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
                     
                     break;
 /*Ouestion 53*/ case 53:
-                    Console.WriteLine("Q53.");
+                    Console.WriteLine("Q53.Demonstrate the use of sealed keyword.(with class and methods)");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
                     
                     break;
 /*Ouestion 54*/ case 54:
-                    Console.WriteLine("Q54.");
+                    Console.WriteLine("Q54.Demonstrate the difference between var, object and dynamic data types with suitable example.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
                     
                     break;
 /*Ouestion 55*/ case 55:
-                    Console.WriteLine("Q55.");
+                    Console.WriteLine("Q55.Write a program which will implement the partial class concept.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
                     
                     break;
 /*Ouestion 56*/ case 56:
-                    Console.WriteLine("Q56.");
+                    Console.WriteLine("Q56.Create a file which includes only data members, another file which contains all constructors of the class,\nanother file which will include all functions related. Use the concept of partial class.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
                     
                     break;
 /*Ouestion 57*/ case 57:
-                    Console.WriteLine("Q57.");
+                    Console.WriteLine("Q57.Write a program to implement the concept of extended method");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
                     
                     break;

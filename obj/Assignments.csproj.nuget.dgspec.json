@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Temp\\Back Class\\C-Sharp\\Assignments\\Assignments.csproj": {}
+    "D:\\DATA\\Github Projects\\C-Sharp\\Assignments.csproj": {}
   },
   "projects": {
-    "D:\\Temp\\Back Class\\C-Sharp\\Assignments\\Assignments.csproj": {
+    "D:\\DATA\\Github Projects\\C-Sharp\\Assignments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Temp\\Back Class\\C-Sharp\\Assignments\\Assignments.csproj",
+        "projectUniqueName": "D:\\DATA\\Github Projects\\C-Sharp\\Assignments.csproj",
         "projectName": "Assignments",
-        "projectPath": "D:\\Temp\\Back Class\\C-Sharp\\Assignments\\Assignments.csproj",
+        "projectPath": "D:\\DATA\\Github Projects\\C-Sharp\\Assignments.csproj",
         "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-        "outputPath": "D:\\Temp\\Back Class\\C-Sharp\\Assignments\\obj\\",
+        "outputPath": "D:\\DATA\\Github Projects\\C-Sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config"

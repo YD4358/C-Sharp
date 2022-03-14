@@ -1,0 +1,1 @@
+//Demonstrate the difference between var, object and dynamic data types with suitable example.

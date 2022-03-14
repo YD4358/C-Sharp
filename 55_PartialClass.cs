@@ -1,0 +1,1 @@
+//Write a program which will implement the partial class concept.
