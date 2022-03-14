@@ -2,5 +2,8 @@
 using System;
 namespace Assignments
 {
-    
+    class funcOver
+    {
+        
+    }
 }
