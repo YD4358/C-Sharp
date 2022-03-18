@@ -341,14 +341,16 @@ namespace Assignments
 /*Ouestion 56*/ case 56:
                     Console.WriteLine("Q56.Create a file which includes only data members, another file which contains all constructors of the class,\nanother file which will include all functions related. Use the concept of partial class.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
-                    
+                    int a;
+                    part pt = new (out a);
                     break;
 /*Ouestion 57*/ case 57:
                     Console.WriteLine("Q57.Write a program to implement the concept of extended method");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
-                    
+                    System.Console.WriteLine(extnd.methd("Binding String Passed to Extended Method"));
                     break;
 
+                
                 default:
                     Console.WriteLine("Coming Soon.....!!");
                     break;
