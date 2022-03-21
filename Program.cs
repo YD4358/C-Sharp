@@ -268,7 +268,7 @@ namespace Assignments
 /*Ouestion 43*/ case 43:
                     Console.WriteLine("Q43.Write a program which will demonstrate the use of static keyword with variables, methods, and constructor.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
-                    
+                    StaticDemo.staic();
                     break;
 /*Ouestion 44*/ case 44:
                     Console.WriteLine("Q41.Write a program to demonstrate static constructor with proper example.");

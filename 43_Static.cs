@@ -2,14 +2,12 @@
 using System;
 namespace Assignments
 {
-    class StaticDemo
+    static class StaticDemo
     {
-        static int a = 5;
-        public void staic()
+        static int a = 1;
+        static public void staic()
         {
-            Console.WriteLine("In C#, static means something which cannot be instantiated. You cannot create an object of a static class and cannot access static members using an object.");
-            a=10;
-            Console.WriteLine(a);
+            Console.WriteLine("{0}.In C#, static means something which cannot be instantiated",a);
         }
     }
 }
