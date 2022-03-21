@@ -321,28 +321,37 @@ namespace Assignments
 /*Ouestion 52*/ case 52:
                     Console.WriteLine("Q52.Write a program which will demonstrate the function overriding.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
-                    
+                    Girl g1 = new ();
+                    g1.showdata();
+                    Married m1 = new ();
+                    m1.showdata();
                     break;
 /*Ouestion 53*/ case 53:
                     Console.WriteLine("Q53.Demonstrate the use of sealed keyword.(with class and methods)");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
-                    
+                    transaction sl = new transaction();
                     break;
 /*Ouestion 54*/ case 54:
                     Console.WriteLine("Q54.Demonstrate the difference between var, object and dynamic data types with suitable example.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
-                    
+                    varObjDyn vod = new ();
+                    vod.diff();
                     break;
 /*Ouestion 55*/ case 55:
                     Console.WriteLine("Q55.Write a program which will implement the partial class concept.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
-                    
+                    int c;
+                    part pt = new (out c);
+                    pt.function();
+                    System.Console.WriteLine("Inside Constructor "+c);
                     break;
 /*Ouestion 56*/ case 56:
                     Console.WriteLine("Q56.Create a file which includes only data members, another file which contains all constructors of the class,\nanother file which will include all functions related. Use the concept of partial class.");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
-                    int a;
-                    part pt = new (out a);
+                    partt Dptt = new partt();
+                    partt Pptt = new partt(1);
+                    partt Cptt = new partt(Pptt);
+                    Dptt.funcc();
                     break;
 /*Ouestion 57*/ case 57:
                     Console.WriteLine("Q57.Write a program to implement the concept of extended method");

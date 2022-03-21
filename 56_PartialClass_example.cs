@@ -1,17 +1,41 @@
 /*Create a file which includes only data members, another file which contains all constructors of the class, 
   another file which will include all functions related. Use the concept of partial class.*/
 using System;
+//----------------------------FILE 1--------------------------//
 namespace Assignments
 {
-	partial class part
+	partial class partt
 	{
 		dynamic a,b;
 	}
-	partial class part
+}
+//----------------------------FILE 2--------------------------//
+namespace Assignments
+{
+	partial class partt
 	{
-		internal part(out int c)
+		internal partt()
 		{
-			c = a+b;
+			System.Console.WriteLine("Default Constructor");
+		}
+		internal partt(int a)
+		{
+			System.Console.WriteLine(a+" Parameter Constructor");
+		}
+		internal partt(partt a)
+		{
+			System.Console.WriteLine("Copy Constructor");
+		}
+	}
+}
+//----------------------------FILE 3--------------------------//
+namespace Assignments
+{
+	partial class partt
+	{
+		internal void funcc()
+		{
+			System.Console.WriteLine("Inside Function");
 		}
 	}
 }
