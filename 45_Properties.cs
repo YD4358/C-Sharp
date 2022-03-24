@@ -5,6 +5,6 @@ namespace Assignments
     internal class Prop
     {
         public string name{get; set;}
-        public void pp(){Console.WriteLine(name);}
+        public void pp(){name = Console.ReadLine(); Console.WriteLine(name);}
     }
 }

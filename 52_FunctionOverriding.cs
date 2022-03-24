@@ -4,7 +4,7 @@ namespace Assignments
 {
     internal class Girl 
     {
-        string name = Console.ReadLine() ;
+        protected string name = Console.ReadLine() ;
         public virtual void showdata()
         {
             Console.WriteLine("Name Before Marriage : " + name);
@@ -12,10 +12,10 @@ namespace Assignments
     }
     internal class Married : Girl {
 
-        string s = Console.ReadLine();
+        //string s = Console.ReadLine();
         public override void showdata()
         {
-            Console.WriteLine("Name After Marriage : " + s);
+            Console.WriteLine("Name After Marriage : " + name);
         }
     }
 }
