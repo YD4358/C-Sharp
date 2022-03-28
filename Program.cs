@@ -356,7 +356,8 @@ namespace Assignments
 /*Ouestion 57*/ case 57:
                     Console.WriteLine("Q57.Write a program to implement the concept of extended method");
                     Console.WriteLine("|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|\n");
-                    System.Console.WriteLine(extnd.methd("Binding String Passed to Extended Method"));
+                    Android api = new ();
+                    Xiaomi.function(api);
                     break;
 
                 
